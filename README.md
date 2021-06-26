@@ -1,14 +1,14 @@
 # Processamento de imagens
 
-## Requirements
+## Biblioteca
 
-* *OpenCV:* processamento de imagens, multiplataforma.
-~~~bash
-    pip install opencv-python
-~~~
 * *Pillow:* processamento de imagens.
 ~~~bash
     pip install Pillow
+~~~
+* *OpenCV:* processamento de imagens, multiplataforma.
+~~~bash
+    pip install opencv-python
 ~~~
 * *NumPy:* trabalhar com arranjos, vetores e matrizes.
 ~~~bash
