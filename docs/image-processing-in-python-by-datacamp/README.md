@@ -14,4 +14,7 @@ Chapters:
 4. Advanced Operations, Detecting Faces and Features
 
 ## Reference
+- Python v3.9.0
+- scikit-image v0.22.0
+- matplotlib v3.8.0
 - [Image Processing in Python](https://app.datacamp.com/learn/courses/image-processing-in-python)
